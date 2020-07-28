@@ -5,4 +5,4 @@ end
 
 puts meal_choice("broccoli", "macaroni")
 
-puts meal_choice("broccoli", "macaroni", "roast beef")
+meal_choice("broccoli", "macaroni", "roast beef")
